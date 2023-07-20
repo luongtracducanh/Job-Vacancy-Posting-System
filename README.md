@@ -1,2 +1,2 @@
 # Job-Vacancy-Posting-System
-This system will allow users to enter details about a job vacancy, and saved into a text file. These postings can also be searched using various criteria and all matched postings will be displayed on a web browser.
+The Job Posting Management System enables users to input job vacancy details and save them to a text file. It offers efficient search functionality based on various criteria, displaying all matched postings on a web browser. Notably, the system supports Vietnamese language job postings and searching. The user interface is thoughtfully designed with Bootstrap's styling and grid system, ensuring an optimal user experience.
